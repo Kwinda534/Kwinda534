@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Kwinda534
+- 😯 I Made Viruses Using Visual Studio 2022 BUT I Decided to Switch to Visual Studio 2017
+- 😃 I love making viruses in C++
+- 😏 I don’t want to learn C# yet
+- 😏😏 Now I will make viruses for old Windows and newer
+- 😉 Need 32bit and 64bit for viruses
