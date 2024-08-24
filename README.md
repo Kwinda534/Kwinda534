@@ -8,6 +8,5 @@
 -😁 Age: 8
 -😏 It’s not difficult for me to make viruses at this age!
 -🤨 I have better viruses than pankoza?
-
 -😥 I don't know much about bitblt, Patbit
 
