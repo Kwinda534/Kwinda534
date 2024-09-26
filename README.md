@@ -4,8 +4,6 @@
 
 - 😃 I love making viruses in C++
 
-- 😏 I don’t want to learn C# yet
-
 - 😏😏 Now I will make viruses for old Windows and newer
 
 - 😉 Need 32bit and 64bit for viruses
